@@ -10,6 +10,6 @@ cfg.politibiler = { --Skriv selv jeres poltibiler ind, husk at den sidste bil ik
   "bil5"
 }
 
-cfg.permission = ""
+cfg.permission = "" --Den permission folk skal have, før den ikke sender beskeden i webhooken
 
 return cfg
